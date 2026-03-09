@@ -1,0 +1,2857 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "slug": "part1",
+      "displayName": "Part 1",
+      "sortOrder": 1,
+      "trips": [
+        {
+          "id": 1,
+          "tripNumber": 2,
+          "displayName": "Trip 02",
+          "sortOrder": 2,
+          "cards": [
+            {
+              "id": 1,
+              "sectionNumber": 1,
+              "displayName": "Pikachu",
+              "imageFilename": "part1_trip_02_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "sectionNumber": 2,
+              "displayName": "Pikachu",
+              "imageFilename": "part1_trip_02_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 3,
+              "sectionNumber": 3,
+              "displayName": "Pikachu",
+              "imageFilename": "part1_trip_02_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "tripNumber": 3,
+          "displayName": "Trip 03",
+          "sortOrder": 3,
+          "cards": [
+            {
+              "id": 4,
+              "sectionNumber": 1,
+              "displayName": "Pikachu vs Team Rocket",
+              "imageFilename": "part1_trip_03_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 5,
+              "sectionNumber": 2,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part1_trip_03_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 6,
+              "sectionNumber": 3,
+              "displayName": "Eevee & Taichi",
+              "imageFilename": "part1_trip_03_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "tripNumber": 4,
+          "displayName": "Trip 04",
+          "sortOrder": 4,
+          "cards": [
+            {
+              "id": 7,
+              "sectionNumber": 1,
+              "displayName": "Raizou, Atsushi & Mizuki",
+              "imageFilename": "part1_trip_04_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 8,
+              "sectionNumber": 2,
+              "displayName": "Eevee Evolutions",
+              "imageFilename": "part1_trip_04_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 9,
+              "sectionNumber": 3,
+              "displayName": "Ash & Pidgeotto",
+              "imageFilename": "part1_trip_04_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "tripNumber": 6,
+          "displayName": "Trip 06",
+          "sortOrder": 6,
+          "cards": [
+            {
+              "id": 10,
+              "sectionNumber": 1,
+              "displayName": "Team Rocket",
+              "imageFilename": "part1_trip_06_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 11,
+              "sectionNumber": 2,
+              "displayName": "Ash & Brock",
+              "imageFilename": "part1_trip_06_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 12,
+              "sectionNumber": 3,
+              "displayName": "Ash & Bulbasaur",
+              "imageFilename": "part1_trip_06_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "tripNumber": 7,
+          "displayName": "Trip 07",
+          "sortOrder": 7,
+          "cards": [
+            {
+              "id": 13,
+              "sectionNumber": 1,
+              "displayName": "Snorlax",
+              "imageFilename": "part1_trip_07_section1.png",
+              "sortOrder": 1
+            },
+            {
+              "id": 14,
+              "sectionNumber": 2,
+              "displayName": "Weezing & Arbok",
+              "imageFilename": "part1_trip_07_section2.png",
+              "sortOrder": 2
+            },
+            {
+              "id": 15,
+              "sectionNumber": 3,
+              "displayName": "Meowth",
+              "imageFilename": "part1_trip_07_section3.png",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "tripNumber": 8,
+          "displayName": "Trip 08",
+          "sortOrder": 8,
+          "cards": [
+            {
+              "id": 16,
+              "sectionNumber": 1,
+              "displayName": "Team Rocket",
+              "imageFilename": "part1_trip_08_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 17,
+              "sectionNumber": 2,
+              "displayName": "Brock",
+              "imageFilename": "part1_trip_08_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 18,
+              "sectionNumber": 3,
+              "displayName": "Bulbasaur",
+              "imageFilename": "part1_trip_08_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "tripNumber": 9,
+          "displayName": "Trip 09",
+          "sortOrder": 9,
+          "cards": [
+            {
+              "id": 19,
+              "sectionNumber": 1,
+              "displayName": "Electabuzz & Scyther",
+              "imageFilename": "part1_trip_09_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 20,
+              "sectionNumber": 2,
+              "displayName": "Nurse Joy",
+              "imageFilename": "part1_trip_09_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 21,
+              "sectionNumber": 3,
+              "displayName": "Ash & Brock",
+              "imageFilename": "part1_trip_09_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "tripNumber": 10,
+          "displayName": "Trip 10",
+          "sortOrder": 10,
+          "cards": [
+            {
+              "id": 22,
+              "sectionNumber": 1,
+              "displayName": "Exeggcute & Melvin",
+              "imageFilename": "part1_trip_10_section1.png",
+              "sortOrder": 1
+            },
+            {
+              "id": 23,
+              "sectionNumber": 2,
+              "displayName": "Misty & Pikachu",
+              "imageFilename": "part1_trip_10_section2.png",
+              "sortOrder": 2
+            },
+            {
+              "id": 24,
+              "sectionNumber": 3,
+              "displayName": "Ash",
+              "imageFilename": "part1_trip_10_section3.png",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "tripNumber": 11,
+          "displayName": "Trip 11",
+          "sortOrder": 11,
+          "cards": [
+            {
+              "id": 25,
+              "sectionNumber": 1,
+              "displayName": "Team Rocket",
+              "imageFilename": "part1_trip_11_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 26,
+              "sectionNumber": 2,
+              "displayName": "Ash, Misty, Brock & Jigglypuff",
+              "imageFilename": "part1_trip_11_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 27,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket",
+              "imageFilename": "part1_trip_11_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "tripNumber": 12,
+          "displayName": "Trip 12",
+          "sortOrder": 12,
+          "cards": [
+            {
+              "id": 28,
+              "sectionNumber": 1,
+              "displayName": "Pikachu vs Paras",
+              "imageFilename": "part1_trip_12_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 29,
+              "sectionNumber": 2,
+              "displayName": "Ash & Squirtle",
+              "imageFilename": "part1_trip_12_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 30,
+              "sectionNumber": 3,
+              "displayName": "Charmeleon",
+              "imageFilename": "part1_trip_12_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "tripNumber": 13,
+          "displayName": "Trip 13",
+          "sortOrder": 13,
+          "cards": [
+            {
+              "id": 31,
+              "sectionNumber": 1,
+              "displayName": "Charmeleon vs Paras",
+              "imageFilename": "part1_trip_13_section1.png",
+              "sortOrder": 1
+            },
+            {
+              "id": 32,
+              "sectionNumber": 2,
+              "displayName": "Parasect & Cassandra",
+              "imageFilename": "part1_trip_13_section2.png",
+              "sortOrder": 2
+            },
+            {
+              "id": 33,
+              "sectionNumber": 3,
+              "displayName": "Officer Jenny",
+              "imageFilename": "part1_trip_13_section3.png",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "tripNumber": 14,
+          "displayName": "Trip 14",
+          "sortOrder": 14,
+          "cards": [
+            {
+              "id": 34,
+              "sectionNumber": 1,
+              "displayName": "Team Rocket",
+              "imageFilename": "part1_trip_14_section1.png",
+              "sortOrder": 1
+            },
+            {
+              "id": 35,
+              "sectionNumber": 2,
+              "displayName": "Ash, Misty & Jigglypuff",
+              "imageFilename": "part1_trip_14_section2.png",
+              "sortOrder": 2
+            },
+            {
+              "id": 36,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket",
+              "imageFilename": "part1_trip_14_section3.png",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "tripNumber": 15,
+          "displayName": "Trip 15",
+          "sortOrder": 15,
+          "cards": [
+            {
+              "id": 37,
+              "sectionNumber": 1,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part1_trip_15_section1.png",
+              "sortOrder": 1
+            },
+            {
+              "id": 38,
+              "sectionNumber": 2,
+              "displayName": "Ash (Disguise)",
+              "imageFilename": "part1_trip_15_section2.png",
+              "sortOrder": 2
+            },
+            {
+              "id": 39,
+              "sectionNumber": 3,
+              "displayName": "Fossil Pokemon",
+              "imageFilename": "part1_trip_15_section3.png",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "tripNumber": 16,
+          "displayName": "Trip 16",
+          "sortOrder": 16,
+          "cards": [
+            {
+              "id": 40,
+              "sectionNumber": 1,
+              "displayName": "Team Rocket",
+              "imageFilename": "part1_trip_16_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 41,
+              "sectionNumber": 2,
+              "displayName": "Charmeleon vs Aerodactyl",
+              "imageFilename": "part1_trip_16_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 42,
+              "sectionNumber": 3,
+              "displayName": "Ash & Mystery Egg",
+              "imageFilename": "part1_trip_16_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "tripNumber": 17,
+          "displayName": "Trip 17",
+          "sortOrder": 17,
+          "cards": [
+            {
+              "id": 43,
+              "sectionNumber": 1,
+              "displayName": "Misty & Her Pokemon",
+              "imageFilename": "part1_trip_17_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 44,
+              "sectionNumber": 2,
+              "displayName": "Brock & His Pokemon",
+              "imageFilename": "part1_trip_17_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 45,
+              "sectionNumber": 3,
+              "displayName": "Ash & His Pokemon",
+              "imageFilename": "part1_trip_17_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "tripNumber": 18,
+          "displayName": "Trip 18",
+          "sortOrder": 18,
+          "cards": [
+            {
+              "id": 46,
+              "sectionNumber": 1,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part1_trip_18_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 47,
+              "sectionNumber": 2,
+              "displayName": "Clefairy",
+              "imageFilename": "part1_trip_18_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 48,
+              "sectionNumber": 3,
+              "displayName": "Meowth",
+              "imageFilename": "part1_trip_18_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "tripNumber": 20,
+          "displayName": "Trip 20",
+          "sortOrder": 20,
+          "cards": [
+            {
+              "id": 49,
+              "sectionNumber": 1,
+              "displayName": "Misty",
+              "imageFilename": "part1_trip_20_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 50,
+              "sectionNumber": 2,
+              "displayName": "Brock",
+              "imageFilename": "part1_trip_20_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 51,
+              "sectionNumber": 3,
+              "displayName": "Ash, Pikachu & Jigglypuff",
+              "imageFilename": "part1_trip_20_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "tripNumber": 21,
+          "displayName": "Trip 21",
+          "sortOrder": 21,
+          "cards": [
+            {
+              "id": 52,
+              "sectionNumber": 1,
+              "displayName": "Team Rocket",
+              "imageFilename": "part1_trip_21_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 53,
+              "sectionNumber": 2,
+              "displayName": "Growlithe & Corey",
+              "imageFilename": "part1_trip_21_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 54,
+              "sectionNumber": 3,
+              "displayName": "Ash, Misty & Brock",
+              "imageFilename": "part1_trip_21_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "tripNumber": 22,
+          "displayName": "Trip 22",
+          "sortOrder": 22,
+          "cards": [
+            {
+              "id": 55,
+              "sectionNumber": 1,
+              "displayName": "Team Rocket",
+              "imageFilename": "part1_trip_22_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 56,
+              "sectionNumber": 2,
+              "displayName": "Duplica",
+              "imageFilename": "part1_trip_22_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 57,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket",
+              "imageFilename": "part1_trip_22_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "tripNumber": 24,
+          "displayName": "Trip 24",
+          "sortOrder": 24,
+          "cards": [
+            {
+              "id": 58,
+              "sectionNumber": 1,
+              "displayName": "Bulbasaur & Friends",
+              "imageFilename": "part1_trip_24_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 59,
+              "sectionNumber": 2,
+              "displayName": "Pidgeot",
+              "imageFilename": "part1_trip_24_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 60,
+              "sectionNumber": 3,
+              "displayName": "Farfetch'd & Casey",
+              "imageFilename": "part1_trip_24_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "part2",
+      "displayName": "Part 2",
+      "sortOrder": 2,
+      "trips": [
+        {
+          "id": 21,
+          "tripNumber": 1,
+          "displayName": "Trip 01",
+          "sortOrder": 1,
+          "cards": [
+            {
+              "id": 61,
+              "sectionNumber": 1,
+              "displayName": "Voltorb",
+              "imageFilename": "part2_trip_01_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 62,
+              "sectionNumber": 2,
+              "displayName": "Misty & Psyduck",
+              "imageFilename": "part2_trip_01_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 63,
+              "sectionNumber": 3,
+              "displayName": "Mystery Egg & Brock",
+              "imageFilename": "part2_trip_01_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "tripNumber": 2,
+          "displayName": "Trip 02",
+          "sortOrder": 2,
+          "cards": [
+            {
+              "id": 64,
+              "sectionNumber": 1,
+              "displayName": "Koga",
+              "imageFilename": "part2_trip_02_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 65,
+              "sectionNumber": 2,
+              "displayName": "Meowth",
+              "imageFilename": "part2_trip_02_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 66,
+              "sectionNumber": 3,
+              "displayName": "Ash & Misty",
+              "imageFilename": "part2_trip_02_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "tripNumber": 3,
+          "displayName": "Trip 03",
+          "sortOrder": 3,
+          "cards": [
+            {
+              "id": 67,
+              "sectionNumber": 1,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part2_trip_03_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 68,
+              "sectionNumber": 2,
+              "displayName": "Butterfree",
+              "imageFilename": "part2_trip_03_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 69,
+              "sectionNumber": 3,
+              "displayName": "Bulbasaur",
+              "imageFilename": "part2_trip_03_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "tripNumber": 4,
+          "displayName": "Trip 04",
+          "sortOrder": 4,
+          "cards": [
+            {
+              "id": 70,
+              "sectionNumber": 1,
+              "displayName": "Ivysaur",
+              "imageFilename": "part2_trip_04_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 71,
+              "sectionNumber": 2,
+              "displayName": "Venusaur",
+              "imageFilename": "part2_trip_04_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 72,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket",
+              "imageFilename": "part2_trip_04_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "tripNumber": 5,
+          "displayName": "Trip 05",
+          "sortOrder": 5,
+          "cards": [
+            {
+              "id": 73,
+              "sectionNumber": 1,
+              "displayName": "Pikachu vs Growlithe",
+              "imageFilename": "part2_trip_05_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 74,
+              "sectionNumber": 2,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part2_trip_05_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 75,
+              "sectionNumber": 3,
+              "displayName": "Arcanine & Officer Jenny",
+              "imageFilename": "part2_trip_05_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "tripNumber": 6,
+          "displayName": "Trip 06",
+          "sortOrder": 6,
+          "cards": [
+            {
+              "id": 76,
+              "sectionNumber": 1,
+              "displayName": "Ash, Misty & Brock",
+              "imageFilename": "part2_trip_06_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 77,
+              "sectionNumber": 2,
+              "displayName": "Growlithe & Officer Jenny",
+              "imageFilename": "part2_trip_06_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 78,
+              "sectionNumber": 3,
+              "displayName": "Damian",
+              "imageFilename": "part2_trip_06_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "tripNumber": 7,
+          "displayName": "Trip 07",
+          "sortOrder": 7,
+          "cards": [
+            {
+              "id": 79,
+              "sectionNumber": 1,
+              "displayName": "Damian",
+              "imageFilename": "part2_trip_07_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 80,
+              "sectionNumber": 2,
+              "displayName": "Jessie & Wobbuffet",
+              "imageFilename": "part2_trip_07_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 81,
+              "sectionNumber": 3,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part2_trip_07_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "tripNumber": 8,
+          "displayName": "Trip 08",
+          "sortOrder": 8,
+          "cards": [
+            {
+              "id": 82,
+              "sectionNumber": 1,
+              "displayName": "Ash, Misty, Brock & Pikachu",
+              "imageFilename": "part2_trip_08_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 83,
+              "sectionNumber": 2,
+              "displayName": "Ash, Misty & Brock",
+              "imageFilename": "part2_trip_08_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 84,
+              "sectionNumber": 3,
+              "displayName": "Ash & Nurse Joy",
+              "imageFilename": "part2_trip_08_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "tripNumber": 9,
+          "displayName": "Trip 09",
+          "sortOrder": 9,
+          "cards": [
+            {
+              "id": 85,
+              "sectionNumber": 1,
+              "displayName": "Team Rocket",
+              "imageFilename": "part2_trip_09_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 86,
+              "sectionNumber": 2,
+              "displayName": "Ash & Koffing",
+              "imageFilename": "part2_trip_09_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 87,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket",
+              "imageFilename": "part2_trip_09_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "tripNumber": 10,
+          "displayName": "Trip 10",
+          "sortOrder": 10,
+          "cards": [
+            {
+              "id": 88,
+              "sectionNumber": 1,
+              "displayName": "Team Rocket",
+              "imageFilename": "part2_trip_10_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 89,
+              "sectionNumber": 2,
+              "displayName": "Charizard, Venusaur & Pikachu",
+              "imageFilename": "part2_trip_10_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 90,
+              "sectionNumber": 3,
+              "displayName": "Charizard vs Magmar",
+              "imageFilename": "part2_trip_10_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "tripNumber": 11,
+          "displayName": "Trip 11",
+          "sortOrder": 11,
+          "cards": [
+            {
+              "id": 91,
+              "sectionNumber": 1,
+              "displayName": "Togepi & Pikachu",
+              "imageFilename": "part2_trip_11_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 92,
+              "sectionNumber": 2,
+              "displayName": "Ash, Brock & Tracey",
+              "imageFilename": "part2_trip_11_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 93,
+              "sectionNumber": 3,
+              "displayName": "Misty & Rudy",
+              "imageFilename": "part2_trip_11_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "tripNumber": 12,
+          "displayName": "Trip 12",
+          "sortOrder": 12,
+          "cards": [
+            {
+              "id": 94,
+              "sectionNumber": 1,
+              "displayName": "Ash, Misty, Brock & Tracey",
+              "imageFilename": "part2_trip_12_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 95,
+              "sectionNumber": 2,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part2_trip_12_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 96,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket",
+              "imageFilename": "part2_trip_12_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "tripNumber": 13,
+          "displayName": "Trip 13",
+          "sortOrder": 13,
+          "cards": [
+            {
+              "id": 97,
+              "sectionNumber": 1,
+              "displayName": "Gary",
+              "imageFilename": "part2_trip_13_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 98,
+              "sectionNumber": 2,
+              "displayName": "Pikachu",
+              "imageFilename": "part2_trip_13_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 99,
+              "sectionNumber": 3,
+              "displayName": "Misty & Togepi",
+              "imageFilename": "part2_trip_13_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "tripNumber": 14,
+          "displayName": "Trip 14",
+          "sortOrder": 14,
+          "cards": [
+            {
+              "id": 100,
+              "sectionNumber": 1,
+              "displayName": "Ninetales & Nidoking",
+              "imageFilename": "part2_trip_14_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 101,
+              "sectionNumber": 2,
+              "displayName": "Charizard & Magmar",
+              "imageFilename": "part2_trip_14_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 102,
+              "sectionNumber": 3,
+              "displayName": "Magmar",
+              "imageFilename": "part2_trip_14_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "tripNumber": 16,
+          "displayName": "Trip 16",
+          "sortOrder": 16,
+          "cards": [
+            {
+              "id": 103,
+              "sectionNumber": 1,
+              "displayName": "Magmar vs Pikachu",
+              "imageFilename": "part2_trip_16_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 104,
+              "sectionNumber": 2,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part2_trip_16_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 105,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket",
+              "imageFilename": "part2_trip_16_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "tripNumber": 18,
+          "displayName": "Trip 18",
+          "sortOrder": 18,
+          "cards": [
+            {
+              "id": 106,
+              "sectionNumber": 1,
+              "displayName": "Jynx",
+              "imageFilename": "part2_trip_18_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 107,
+              "sectionNumber": 2,
+              "displayName": "Charizard",
+              "imageFilename": "part2_trip_18_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 108,
+              "sectionNumber": 3,
+              "displayName": "Charizard vs Charizard",
+              "imageFilename": "part2_trip_18_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "tripNumber": 19,
+          "displayName": "Trip 19",
+          "sortOrder": 19,
+          "cards": [
+            {
+              "id": 109,
+              "sectionNumber": 1,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part2_trip_19_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 110,
+              "sectionNumber": 2,
+              "displayName": "Charizard vs Magmar",
+              "imageFilename": "part2_trip_19_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 111,
+              "sectionNumber": 3,
+              "displayName": "Pikachu, Squirtle & Bulbasaur",
+              "imageFilename": "part2_trip_19_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "tripNumber": 20,
+          "displayName": "Trip 20",
+          "sortOrder": 20,
+          "cards": [
+            {
+              "id": 112,
+              "sectionNumber": 1,
+              "displayName": "Snorlax",
+              "imageFilename": "part2_trip_20_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 113,
+              "sectionNumber": 2,
+              "displayName": "Blastoise & Squirtle",
+              "imageFilename": "part2_trip_20_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 114,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket & Hitmonlee",
+              "imageFilename": "part2_trip_20_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "tripNumber": 21,
+          "displayName": "Trip 21",
+          "sortOrder": 21,
+          "cards": [
+            {
+              "id": 115,
+              "sectionNumber": 1,
+              "displayName": "Blastoise & Squirtle",
+              "imageFilename": "part2_trip_21_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 116,
+              "sectionNumber": 2,
+              "displayName": "Team Rocket",
+              "imageFilename": "part2_trip_21_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 117,
+              "sectionNumber": 3,
+              "displayName": "Blastoise & Squirtle",
+              "imageFilename": "part2_trip_21_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "part3",
+      "displayName": "Part 3",
+      "sortOrder": 3,
+      "trips": [
+        {
+          "id": 40,
+          "tripNumber": 1,
+          "displayName": "Trip 01",
+          "sortOrder": 1,
+          "cards": [
+            {
+              "id": 118,
+              "sectionNumber": 1,
+              "displayName": "Ash's Lapras",
+              "imageFilename": "part3_trip_01_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 119,
+              "sectionNumber": 2,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part3_trip_01_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 120,
+              "sectionNumber": 3,
+              "displayName": "Misty & Sisters",
+              "imageFilename": "part3_trip_01_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "tripNumber": 2,
+          "displayName": "Trip 02",
+          "sortOrder": 2,
+          "cards": [
+            {
+              "id": 121,
+              "sectionNumber": 1,
+              "displayName": "Misty",
+              "imageFilename": "part3_trip_02_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 122,
+              "sectionNumber": 2,
+              "displayName": "Team Rocket",
+              "imageFilename": "part3_trip_02_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 123,
+              "sectionNumber": 3,
+              "displayName": "Misty & Togepi",
+              "imageFilename": "part3_trip_02_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "tripNumber": 3,
+          "displayName": "Trip 03",
+          "sortOrder": 3,
+          "cards": [
+            {
+              "id": 124,
+              "sectionNumber": 1,
+              "displayName": "Haunter & Gengar",
+              "imageFilename": "part3_trip_03_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 125,
+              "sectionNumber": 2,
+              "displayName": "Dewgong",
+              "imageFilename": "part3_trip_03_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 126,
+              "sectionNumber": 3,
+              "displayName": "Pikachu & Togepi",
+              "imageFilename": "part3_trip_03_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "tripNumber": 5,
+          "displayName": "Trip 05",
+          "sortOrder": 5,
+          "cards": [
+            {
+              "id": 127,
+              "sectionNumber": 1,
+              "displayName": "Pikachu",
+              "imageFilename": "part3_trip_05_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 128,
+              "sectionNumber": 2,
+              "displayName": "Jigglypuff",
+              "imageFilename": "part3_trip_05_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 129,
+              "sectionNumber": 3,
+              "displayName": "Bulbasaur, Squirtle & Pikachu",
+              "imageFilename": "part3_trip_05_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "tripNumber": 6,
+          "displayName": "Trip 06",
+          "sortOrder": 6,
+          "cards": [
+            {
+              "id": 130,
+              "sectionNumber": 1,
+              "displayName": "Ash, Brock & Misty",
+              "imageFilename": "part3_trip_06_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 131,
+              "sectionNumber": 2,
+              "displayName": "Gary",
+              "imageFilename": "part3_trip_06_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 132,
+              "sectionNumber": 3,
+              "displayName": "Jessie & Togepi",
+              "imageFilename": "part3_trip_06_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "tripNumber": 7,
+          "displayName": "Trip 07",
+          "sortOrder": 7,
+          "cards": [
+            {
+              "id": 133,
+              "sectionNumber": 1,
+              "displayName": "Primeape & Hitmonchan",
+              "imageFilename": "part3_trip_07_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 134,
+              "sectionNumber": 2,
+              "displayName": "Prof. Oak & Meowth",
+              "imageFilename": "part3_trip_07_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 135,
+              "sectionNumber": 3,
+              "displayName": "Ash vs Team Rocket",
+              "imageFilename": "part3_trip_07_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "tripNumber": 8,
+          "displayName": "Trip 08",
+          "sortOrder": 8,
+          "cards": [
+            {
+              "id": 136,
+              "sectionNumber": 1,
+              "displayName": "Pidgeot & Squirtle",
+              "imageFilename": "part3_trip_08_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 137,
+              "sectionNumber": 2,
+              "displayName": "Ash's Pokemon",
+              "imageFilename": "part3_trip_08_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 138,
+              "sectionNumber": 3,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part3_trip_08_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "tripNumber": 9,
+          "displayName": "Trip 09",
+          "sortOrder": 9,
+          "cards": [
+            {
+              "id": 139,
+              "sectionNumber": 1,
+              "displayName": "Brock & Friends",
+              "imageFilename": "part3_trip_09_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 140,
+              "sectionNumber": 2,
+              "displayName": "Jessie, James & Meowth",
+              "imageFilename": "part3_trip_09_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 141,
+              "sectionNumber": 3,
+              "displayName": "Jynx",
+              "imageFilename": "part3_trip_09_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 48,
+          "tripNumber": 10,
+          "displayName": "Trip 10",
+          "sortOrder": 10,
+          "cards": [
+            {
+              "id": 142,
+              "sectionNumber": 1,
+              "displayName": "Team Rocket & Pikachu",
+              "imageFilename": "part3_trip_10_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 143,
+              "sectionNumber": 2,
+              "displayName": "Snubbull",
+              "imageFilename": "part3_trip_10_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 144,
+              "sectionNumber": 3,
+              "displayName": "Snorlax",
+              "imageFilename": "part3_trip_10_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 49,
+          "tripNumber": 11,
+          "displayName": "Trip 11",
+          "sortOrder": 11,
+          "cards": [
+            {
+              "id": 145,
+              "sectionNumber": 1,
+              "displayName": "Ash vs Gary",
+              "imageFilename": "part3_trip_11_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 146,
+              "sectionNumber": 2,
+              "displayName": "Giovanni & Persian",
+              "imageFilename": "part3_trip_11_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 147,
+              "sectionNumber": 3,
+              "displayName": "Gary",
+              "imageFilename": "part3_trip_11_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 50,
+          "tripNumber": 12,
+          "displayName": "Trip 12",
+          "sortOrder": 12,
+          "cards": [
+            {
+              "id": 148,
+              "sectionNumber": 1,
+              "displayName": "Spearow & Doduo",
+              "imageFilename": "part3_trip_12_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 149,
+              "sectionNumber": 2,
+              "displayName": "Jessie, James & Haunter",
+              "imageFilename": "part3_trip_12_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 150,
+              "sectionNumber": 3,
+              "displayName": "Misty, Jigglypuff & Farfetch'd",
+              "imageFilename": "part3_trip_12_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "tripNumber": 13,
+          "displayName": "Trip 13",
+          "sortOrder": 13,
+          "cards": [
+            {
+              "id": 151,
+              "sectionNumber": 1,
+              "displayName": "Slowpoke & Prof. Elm",
+              "imageFilename": "part3_trip_13_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 152,
+              "sectionNumber": 2,
+              "displayName": "Pikachu vs Mecha",
+              "imageFilename": "part3_trip_13_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 153,
+              "sectionNumber": 3,
+              "displayName": "Michael & Vincent",
+              "imageFilename": "part3_trip_13_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "tripNumber": 14,
+          "displayName": "Trip 14",
+          "sortOrder": 14,
+          "cards": [
+            {
+              "id": 154,
+              "sectionNumber": 1,
+              "displayName": "Vulpix & Meowth",
+              "imageFilename": "part3_trip_14_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 155,
+              "sectionNumber": 2,
+              "displayName": "Bulbasaur & Pikachu",
+              "imageFilename": "part3_trip_14_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 156,
+              "sectionNumber": 3,
+              "displayName": "Raichu",
+              "imageFilename": "part3_trip_14_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "tripNumber": 15,
+          "displayName": "Trip 15",
+          "sortOrder": 15,
+          "cards": [
+            {
+              "id": 157,
+              "sectionNumber": 1,
+              "displayName": "Lapras",
+              "imageFilename": "part3_trip_15_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 158,
+              "sectionNumber": 2,
+              "displayName": "Pikachu & Jigglypuff",
+              "imageFilename": "part3_trip_15_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 159,
+              "sectionNumber": 3,
+              "displayName": "Meowth & Mewtwo",
+              "imageFilename": "part3_trip_15_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "tripNumber": 16,
+          "displayName": "Trip 16",
+          "sortOrder": 16,
+          "cards": [
+            {
+              "id": 160,
+              "sectionNumber": 1,
+              "displayName": "Meowth",
+              "imageFilename": "part3_trip_16_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 161,
+              "sectionNumber": 2,
+              "displayName": "Meowth & Mewtwo",
+              "imageFilename": "part3_trip_16_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 162,
+              "sectionNumber": 3,
+              "displayName": "Golem",
+              "imageFilename": "part3_trip_16_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 55,
+          "tripNumber": 17,
+          "displayName": "Trip 17",
+          "sortOrder": 17,
+          "cards": [
+            {
+              "id": 163,
+              "sectionNumber": 1,
+              "displayName": "Pikachu & Ash",
+              "imageFilename": "part3_trip_17_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 164,
+              "sectionNumber": 2,
+              "displayName": "Giant Onix & Sandslash",
+              "imageFilename": "part3_trip_17_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 165,
+              "sectionNumber": 3,
+              "displayName": "Vulpix & Pikachu",
+              "imageFilename": "part3_trip_17_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 56,
+          "tripNumber": 18,
+          "displayName": "Trip 18",
+          "sortOrder": 18,
+          "cards": [
+            {
+              "id": 166,
+              "sectionNumber": 1,
+              "displayName": "Ancient Gengar & Aerodactyl",
+              "imageFilename": "part3_trip_18_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 167,
+              "sectionNumber": 2,
+              "displayName": "Ancient Jigglypuff",
+              "imageFilename": "part3_trip_18_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 168,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket & All Cast",
+              "imageFilename": "part3_trip_18_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 57,
+          "tripNumber": 19,
+          "displayName": "Trip 19",
+          "sortOrder": 19,
+          "cards": [
+            {
+              "id": 169,
+              "sectionNumber": 1,
+              "displayName": "Ninetales",
+              "imageFilename": "part3_trip_19_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 170,
+              "sectionNumber": 2,
+              "displayName": "Brock & Nurse Joy",
+              "imageFilename": "part3_trip_19_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 171,
+              "sectionNumber": 3,
+              "displayName": "Koga & Butterfree",
+              "imageFilename": "part3_trip_19_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "part4",
+      "displayName": "Part 4",
+      "sortOrder": 4,
+      "trips": [
+        {
+          "id": 58,
+          "tripNumber": 1,
+          "displayName": "Trip 01",
+          "sortOrder": 1,
+          "cards": [
+            {
+              "id": 172,
+              "sectionNumber": 1,
+              "displayName": "Ash's Pokemon",
+              "imageFilename": "part4_trip_01_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 173,
+              "sectionNumber": 2,
+              "displayName": "Squirtle",
+              "imageFilename": "part4_trip_01_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 174,
+              "sectionNumber": 3,
+              "displayName": "Kingler vs Haunter",
+              "imageFilename": "part4_trip_01_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "tripNumber": 3,
+          "displayName": "Trip 03",
+          "sortOrder": 3,
+          "cards": [
+            {
+              "id": 175,
+              "sectionNumber": 1,
+              "displayName": "Arcanine",
+              "imageFilename": "part4_trip_03_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 176,
+              "sectionNumber": 2,
+              "displayName": "Blastoise & Rival",
+              "imageFilename": "part4_trip_03_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 177,
+              "sectionNumber": 3,
+              "displayName": "Vileplume",
+              "imageFilename": "part4_trip_03_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 60,
+          "tripNumber": 5,
+          "displayName": "Trip 05",
+          "sortOrder": 5,
+          "cards": [
+            {
+              "id": 178,
+              "sectionNumber": 1,
+              "displayName": "Bellsprout",
+              "imageFilename": "part4_trip_05_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 179,
+              "sectionNumber": 2,
+              "displayName": "Muk",
+              "imageFilename": "part4_trip_05_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 180,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket",
+              "imageFilename": "part4_trip_05_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "tripNumber": 6,
+          "displayName": "Trip 06",
+          "sortOrder": 6,
+          "cards": [
+            {
+              "id": 181,
+              "sectionNumber": 1,
+              "displayName": "Butterfree",
+              "imageFilename": "part4_trip_06_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 182,
+              "sectionNumber": 2,
+              "displayName": "Pikachu & Clefairy",
+              "imageFilename": "part4_trip_06_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 183,
+              "sectionNumber": 3,
+              "displayName": "Charizard",
+              "imageFilename": "part4_trip_06_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "tripNumber": 7,
+          "displayName": "Trip 07",
+          "sortOrder": 7,
+          "cards": [
+            {
+              "id": 184,
+              "sectionNumber": 1,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part4_trip_07_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 185,
+              "sectionNumber": 2,
+              "displayName": "Ivysaur & Pikachu",
+              "imageFilename": "part4_trip_07_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 186,
+              "sectionNumber": 3,
+              "displayName": "Ash",
+              "imageFilename": "part4_trip_07_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 63,
+          "tripNumber": 8,
+          "displayName": "Trip 08",
+          "sortOrder": 8,
+          "cards": [
+            {
+              "id": 187,
+              "sectionNumber": 1,
+              "displayName": "Ash & Brock",
+              "imageFilename": "part4_trip_08_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 188,
+              "sectionNumber": 2,
+              "displayName": "Pokemon League Finale",
+              "imageFilename": "part4_trip_08_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 189,
+              "sectionNumber": 3,
+              "displayName": "Brock & Misty",
+              "imageFilename": "part4_trip_08_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "tripNumber": 9,
+          "displayName": "Trip 09",
+          "sortOrder": 9,
+          "cards": [
+            {
+              "id": 190,
+              "sectionNumber": 1,
+              "displayName": "Team Rocket",
+              "imageFilename": "part4_trip_09_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 191,
+              "sectionNumber": 2,
+              "displayName": "Gary's Pokemon",
+              "imageFilename": "part4_trip_09_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 192,
+              "sectionNumber": 3,
+              "displayName": "Misty & Friends",
+              "imageFilename": "part4_trip_09_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 65,
+          "tripNumber": 10,
+          "displayName": "Trip 10",
+          "sortOrder": 10,
+          "cards": [
+            {
+              "id": 193,
+              "sectionNumber": 1,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part4_trip_10_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 194,
+              "sectionNumber": 2,
+              "displayName": "Jigglypuff",
+              "imageFilename": "part4_trip_10_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 195,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket",
+              "imageFilename": "part4_trip_10_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "tripNumber": 11,
+          "displayName": "Trip 11",
+          "sortOrder": 11,
+          "cards": [
+            {
+              "id": 196,
+              "sectionNumber": 1,
+              "displayName": "Jigglypuff & Misty",
+              "imageFilename": "part4_trip_11_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 197,
+              "sectionNumber": 2,
+              "displayName": "Ash & Team Rocket",
+              "imageFilename": "part4_trip_11_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 198,
+              "sectionNumber": 3,
+              "displayName": "Lapras",
+              "imageFilename": "part4_trip_11_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 67,
+          "tripNumber": 12,
+          "displayName": "Trip 12",
+          "sortOrder": 12,
+          "cards": [
+            {
+              "id": 199,
+              "sectionNumber": 1,
+              "displayName": "Butterfree & Pikachu",
+              "imageFilename": "part4_trip_12_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 200,
+              "sectionNumber": 2,
+              "displayName": "Brock",
+              "imageFilename": "part4_trip_12_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 201,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket",
+              "imageFilename": "part4_trip_12_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "tripNumber": 13,
+          "displayName": "Trip 13",
+          "sortOrder": 13,
+          "cards": [
+            {
+              "id": 202,
+              "sectionNumber": 1,
+              "displayName": "Ash & Brock",
+              "imageFilename": "part4_trip_13_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 203,
+              "sectionNumber": 2,
+              "displayName": "Nurse Joy & Marill",
+              "imageFilename": "part4_trip_13_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 204,
+              "sectionNumber": 3,
+              "displayName": "Ash & Lapras",
+              "imageFilename": "part4_trip_13_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 69,
+          "tripNumber": 14,
+          "displayName": "Trip 14",
+          "sortOrder": 14,
+          "cards": [
+            {
+              "id": 205,
+              "sectionNumber": 1,
+              "displayName": "Marill & Friends",
+              "imageFilename": "part4_trip_14_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 206,
+              "sectionNumber": 2,
+              "displayName": "Team Rocket",
+              "imageFilename": "part4_trip_14_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 207,
+              "sectionNumber": 3,
+              "displayName": "Squirtle & Lapras",
+              "imageFilename": "part4_trip_14_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 70,
+          "tripNumber": 16,
+          "displayName": "Trip 16",
+          "sortOrder": 16,
+          "cards": [
+            {
+              "id": 208,
+              "sectionNumber": 1,
+              "displayName": "Lapras",
+              "imageFilename": "part4_trip_16_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 209,
+              "sectionNumber": 2,
+              "displayName": "Ash & Danny",
+              "imageFilename": "part4_trip_16_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 210,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket",
+              "imageFilename": "part4_trip_16_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 71,
+          "tripNumber": 18,
+          "displayName": "Trip 18",
+          "sortOrder": 18,
+          "cards": [
+            {
+              "id": 211,
+              "sectionNumber": 1,
+              "displayName": "Meowth & Pikachu",
+              "imageFilename": "part4_trip_18_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 212,
+              "sectionNumber": 2,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part4_trip_18_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 213,
+              "sectionNumber": 3,
+              "displayName": "Electrode & Togepi",
+              "imageFilename": "part4_trip_18_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "tripNumber": 19,
+          "displayName": "Trip 19",
+          "sortOrder": 19,
+          "cards": [
+            {
+              "id": 214,
+              "sectionNumber": 1,
+              "displayName": "Marill",
+              "imageFilename": "part4_trip_19_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 215,
+              "sectionNumber": 2,
+              "displayName": "Vileplume",
+              "imageFilename": "part4_trip_19_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 216,
+              "sectionNumber": 3,
+              "displayName": "Charizard",
+              "imageFilename": "part4_trip_19_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 73,
+          "tripNumber": 20,
+          "displayName": "Trip 20",
+          "sortOrder": 20,
+          "cards": [
+            {
+              "id": 217,
+              "sectionNumber": 1,
+              "displayName": "Togepi vs Nidorina",
+              "imageFilename": "part4_trip_20_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 218,
+              "sectionNumber": 2,
+              "displayName": "Nidorina & Ash",
+              "imageFilename": "part4_trip_20_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 219,
+              "sectionNumber": 3,
+              "displayName": "Pikachu & Clefairy",
+              "imageFilename": "part4_trip_20_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 74,
+          "tripNumber": 21,
+          "displayName": "Trip 21",
+          "sortOrder": 21,
+          "cards": [
+            {
+              "id": 220,
+              "sectionNumber": 1,
+              "displayName": "Team Rocket",
+              "imageFilename": "part4_trip_21_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 221,
+              "sectionNumber": 2,
+              "displayName": "Nidoking vs Marill",
+              "imageFilename": "part4_trip_21_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 222,
+              "sectionNumber": 3,
+              "displayName": "Junior & Nidoking",
+              "imageFilename": "part4_trip_21_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 75,
+          "tripNumber": 22,
+          "displayName": "Trip 22",
+          "sortOrder": 22,
+          "cards": [
+            {
+              "id": 223,
+              "sectionNumber": 1,
+              "displayName": "Pikachu",
+              "imageFilename": "part4_trip_22_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 224,
+              "sectionNumber": 2,
+              "displayName": "Nurse Joy & Chansey",
+              "imageFilename": "part4_trip_22_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 225,
+              "sectionNumber": 3,
+              "displayName": "Ash & Gastly",
+              "imageFilename": "part4_trip_22_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 76,
+          "tripNumber": 23,
+          "displayName": "Trip 23",
+          "sortOrder": 23,
+          "cards": [
+            {
+              "id": 226,
+              "sectionNumber": 1,
+              "displayName": "Raichu",
+              "imageFilename": "part4_trip_23_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 227,
+              "sectionNumber": 2,
+              "displayName": "Raichu & Pikachu",
+              "imageFilename": "part4_trip_23_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 228,
+              "sectionNumber": 3,
+              "displayName": "Team Rocket",
+              "imageFilename": "part4_trip_23_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 77,
+          "tripNumber": 24,
+          "displayName": "Trip 24",
+          "sortOrder": 24,
+          "cards": [
+            {
+              "id": 229,
+              "sectionNumber": 1,
+              "displayName": "Raichu & Team Rocket",
+              "imageFilename": "part4_trip_24_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 230,
+              "sectionNumber": 2,
+              "displayName": "Squirtle & Friends",
+              "imageFilename": "part4_trip_24_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 231,
+              "sectionNumber": 3,
+              "displayName": "Golduck, Misty & Tsubaki",
+              "imageFilename": "part4_trip_24_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "part5",
+      "displayName": "Part 5",
+      "sortOrder": 5,
+      "trips": [
+        {
+          "id": 78,
+          "tripNumber": 1,
+          "displayName": "Trip 01",
+          "sortOrder": 1,
+          "cards": [
+            {
+              "id": 232,
+              "sectionNumber": 1,
+              "displayName": "Ash & Misty",
+              "imageFilename": "part5_trip_01_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 233,
+              "sectionNumber": 2,
+              "displayName": "Ash vs Danny",
+              "imageFilename": "part5_trip_01_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 234,
+              "sectionNumber": 3,
+              "displayName": "Snorlax",
+              "imageFilename": "part5_trip_01_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 79,
+          "tripNumber": 2,
+          "displayName": "Trip 02",
+          "sortOrder": 2,
+          "cards": [
+            {
+              "id": 235,
+              "sectionNumber": 1,
+              "displayName": "Snorlax & Ash",
+              "imageFilename": "part5_trip_02_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 236,
+              "sectionNumber": 2,
+              "displayName": "Team Rocket Trio",
+              "imageFilename": "part5_trip_02_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 237,
+              "sectionNumber": 3,
+              "displayName": "Meowth & Meowth Statue",
+              "imageFilename": "part5_trip_02_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 80,
+          "tripNumber": 3,
+          "displayName": "Trip 03",
+          "sortOrder": 3,
+          "cards": [
+            {
+              "id": 238,
+              "sectionNumber": 1,
+              "displayName": "Scyther & Tracey",
+              "imageFilename": "part5_trip_03_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 239,
+              "sectionNumber": 2,
+              "displayName": "Scyther & Tracey",
+              "imageFilename": "part5_trip_03_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 240,
+              "sectionNumber": 3,
+              "displayName": "Pokemon Assembly",
+              "imageFilename": "part5_trip_03_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 81,
+          "tripNumber": 4,
+          "displayName": "Trip 04",
+          "sortOrder": 4,
+          "cards": [
+            {
+              "id": 241,
+              "sectionNumber": 1,
+              "displayName": "Pokemon Assembly",
+              "imageFilename": "part5_trip_04_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 242,
+              "sectionNumber": 2,
+              "displayName": "Ash & Misty",
+              "imageFilename": "part5_trip_04_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 243,
+              "sectionNumber": 3,
+              "displayName": "Nidoran & Nidorina",
+              "imageFilename": "part5_trip_04_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 82,
+          "tripNumber": 5,
+          "displayName": "Trip 05",
+          "sortOrder": 5,
+          "cards": [
+            {
+              "id": 244,
+              "sectionNumber": 1,
+              "displayName": "Jolteon & Pikachu",
+              "imageFilename": "part5_trip_05_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 245,
+              "sectionNumber": 2,
+              "displayName": "Jigglypuff & Misty",
+              "imageFilename": "part5_trip_05_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 246,
+              "sectionNumber": 3,
+              "displayName": "Marill, Ash & Misty",
+              "imageFilename": "part5_trip_05_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 83,
+          "tripNumber": 7,
+          "displayName": "Trip 07",
+          "sortOrder": 7,
+          "cards": [
+            {
+              "id": 247,
+              "sectionNumber": 1,
+              "displayName": "Electabuzz vs Pikachu",
+              "imageFilename": "part5_trip_07_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 248,
+              "sectionNumber": 2,
+              "displayName": "Starmie",
+              "imageFilename": "part5_trip_07_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 249,
+              "sectionNumber": 3,
+              "displayName": "Ash & Pikachu",
+              "imageFilename": "part5_trip_07_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 84,
+          "tripNumber": 8,
+          "displayName": "Trip 08",
+          "sortOrder": 8,
+          "cards": [
+            {
+              "id": 250,
+              "sectionNumber": 1,
+              "displayName": "Team Rocket Group",
+              "imageFilename": "part5_trip_08_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 251,
+              "sectionNumber": 2,
+              "displayName": "Ash's Group",
+              "imageFilename": "part5_trip_08_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 252,
+              "sectionNumber": 3,
+              "displayName": "Pikachu vs Meowth",
+              "imageFilename": "part5_trip_08_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 85,
+          "tripNumber": 10,
+          "displayName": "Trip 10",
+          "sortOrder": 10,
+          "cards": [
+            {
+              "id": 253,
+              "sectionNumber": 1,
+              "displayName": "Jigglypuff & Ash",
+              "imageFilename": "part5_trip_10_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 254,
+              "sectionNumber": 2,
+              "displayName": "Giant Rhydon",
+              "imageFilename": "part5_trip_10_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 255,
+              "sectionNumber": 3,
+              "displayName": "Pikachu & Snubbull",
+              "imageFilename": "part5_trip_10_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 86,
+          "tripNumber": 11,
+          "displayName": "Trip 11",
+          "sortOrder": 11,
+          "cards": [
+            {
+              "id": 256,
+              "sectionNumber": 1,
+              "displayName": "James & Meowth",
+              "imageFilename": "part5_trip_11_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 257,
+              "sectionNumber": 2,
+              "displayName": "Squirtle Squad & Pikachu",
+              "imageFilename": "part5_trip_11_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 258,
+              "sectionNumber": 3,
+              "displayName": "James's Squirtle Robot",
+              "imageFilename": "part5_trip_11_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 87,
+          "tripNumber": 12,
+          "displayName": "Trip 12",
+          "sortOrder": 12,
+          "cards": [
+            {
+              "id": 259,
+              "sectionNumber": 1,
+              "displayName": "Charizard & James",
+              "imageFilename": "part5_trip_12_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 260,
+              "sectionNumber": 2,
+              "displayName": "Ash's Group",
+              "imageFilename": "part5_trip_12_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 261,
+              "sectionNumber": 3,
+              "displayName": "Squirtle Squad & Ash",
+              "imageFilename": "part5_trip_12_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 88,
+          "tripNumber": 14,
+          "displayName": "Trip 14",
+          "sortOrder": 14,
+          "cards": [
+            {
+              "id": 262,
+              "sectionNumber": 1,
+              "displayName": "Squirtle & Misty",
+              "imageFilename": "part5_trip_14_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 263,
+              "sectionNumber": 2,
+              "displayName": "Ash & Misty",
+              "imageFilename": "part5_trip_14_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 264,
+              "sectionNumber": 3,
+              "displayName": "Snorlax & Ash",
+              "imageFilename": "part5_trip_14_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 89,
+          "tripNumber": 15,
+          "displayName": "Trip 15",
+          "sortOrder": 15,
+          "cards": [
+            {
+              "id": 265,
+              "sectionNumber": 1,
+              "displayName": "Armored Meowth",
+              "imageFilename": "part5_trip_15_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 266,
+              "sectionNumber": 2,
+              "displayName": "Meowth vs Pikachu",
+              "imageFilename": "part5_trip_15_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 267,
+              "sectionNumber": 3,
+              "displayName": "Mecha Rhydon",
+              "imageFilename": "part5_trip_15_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 90,
+          "tripNumber": 16,
+          "displayName": "Trip 16",
+          "sortOrder": 16,
+          "cards": [
+            {
+              "id": 268,
+              "sectionNumber": 1,
+              "displayName": "Ash vs Rurico",
+              "imageFilename": "part5_trip_16_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 269,
+              "sectionNumber": 2,
+              "displayName": "Pikachu, Alakazam & Charizard",
+              "imageFilename": "part5_trip_16_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 270,
+              "sectionNumber": 3,
+              "displayName": "Charizard & Ash",
+              "imageFilename": "part5_trip_16_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 91,
+          "tripNumber": 17,
+          "displayName": "Trip 17",
+          "sortOrder": 17,
+          "cards": [
+            {
+              "id": 271,
+              "sectionNumber": 1,
+              "displayName": "Dratini & Pikachu",
+              "imageFilename": "part5_trip_17_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 272,
+              "sectionNumber": 2,
+              "displayName": "Tracey & Magikarp",
+              "imageFilename": "part5_trip_17_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 273,
+              "sectionNumber": 3,
+              "displayName": "Magikarp & Gyarados",
+              "imageFilename": "part5_trip_17_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 92,
+          "tripNumber": 18,
+          "displayName": "Trip 18",
+          "sortOrder": 18,
+          "cards": [
+            {
+              "id": 274,
+              "sectionNumber": 1,
+              "displayName": "Ash & Misty",
+              "imageFilename": "part5_trip_18_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 275,
+              "sectionNumber": 2,
+              "displayName": "Misty vs Team Rocket",
+              "imageFilename": "part5_trip_18_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 276,
+              "sectionNumber": 3,
+              "displayName": "Poliwag & Misty",
+              "imageFilename": "part5_trip_18_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 93,
+          "tripNumber": 19,
+          "displayName": "Trip 19",
+          "sortOrder": 19,
+          "cards": [
+            {
+              "id": 277,
+              "sectionNumber": 1,
+              "displayName": "Ash's Party",
+              "imageFilename": "part5_trip_19_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 278,
+              "sectionNumber": 2,
+              "displayName": "Drake's Party",
+              "imageFilename": "part5_trip_19_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 279,
+              "sectionNumber": 3,
+              "displayName": "Lapras & Ash",
+              "imageFilename": "part5_trip_19_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 94,
+          "tripNumber": 20,
+          "displayName": "Trip 20",
+          "sortOrder": 20,
+          "cards": [
+            {
+              "id": 280,
+              "sectionNumber": 1,
+              "displayName": "Electrode vs Django",
+              "imageFilename": "part5_trip_20_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 281,
+              "sectionNumber": 2,
+              "displayName": "Jessie & James",
+              "imageFilename": "part5_trip_20_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 282,
+              "sectionNumber": 3,
+              "displayName": "Meowth",
+              "imageFilename": "part5_trip_20_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 95,
+          "tripNumber": 21,
+          "displayName": "Trip 21",
+          "sortOrder": 21,
+          "cards": [
+            {
+              "id": 283,
+              "sectionNumber": 1,
+              "displayName": "Tracey",
+              "imageFilename": "part5_trip_21_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 284,
+              "sectionNumber": 2,
+              "displayName": "Misty",
+              "imageFilename": "part5_trip_21_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 285,
+              "sectionNumber": 3,
+              "displayName": "Ash",
+              "imageFilename": "part5_trip_21_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 96,
+          "tripNumber": 22,
+          "displayName": "Trip 22",
+          "sortOrder": 22,
+          "cards": [
+            {
+              "id": 286,
+              "sectionNumber": 1,
+              "displayName": "Pikachu",
+              "imageFilename": "part5_trip_22_section1.jpeg",
+              "sortOrder": 1
+            },
+            {
+              "id": 287,
+              "sectionNumber": 2,
+              "displayName": "Ash",
+              "imageFilename": "part5_trip_22_section2.jpeg",
+              "sortOrder": 2
+            },
+            {
+              "id": 288,
+              "sectionNumber": 3,
+              "displayName": "Pikachu",
+              "imageFilename": "part5_trip_22_section3.jpeg",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": 97,
+          "tripNumber": 24,
+          "displayName": "Trip 24",
+          "sortOrder": 24,
+          "cards": [
+            {
+              "id": 289,
+              "sectionNumber": 1,
+              "displayName": "Lapras & Ash",
+              "imageFilename": "part5_trip_24_section1.png",
+              "sortOrder": 1
+            },
+            {
+              "id": 290,
+              "sectionNumber": 2,
+              "displayName": "Electrode vs Django",
+              "imageFilename": "part5_trip_24_section2.png",
+              "sortOrder": 2
+            },
+            {
+              "id": 291,
+              "sectionNumber": 3,
+              "displayName": "Blank Card",
+              "imageFilename": "part5_trip_24_section3.png",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

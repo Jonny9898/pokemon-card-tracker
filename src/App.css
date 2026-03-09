@@ -1,0 +1,67 @@
+/* Dashboard Layout */
+.dashboard {
+  min-height: 100vh;
+}
+
+.main-content {
+  margin-left: var(--sidebar-width);
+  margin-top: var(--header-height);
+  min-height: calc(100vh - var(--header-height));
+}
+
+/* Sidebar responsive */
+.sidebar-overlay {
+  display: none;
+}
+
+/* Modal animation */
+@keyframes modalIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Tablet and below */
+@media (max-width: 1024px) {
+  .main-content {
+    margin-left: 0;
+  }
+
+  .sidebar {
+    transform: translateX(-100%);
+  }
+
+  .sidebar.sidebar-open {
+    transform: translateX(0) !important;
+  }
+
+  .sidebar-overlay {
+    display: block;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.3);
+    z-index: 80;
+  }
+
+  .menu-toggle {
+    display: block !important;
+  }
+}
+
+/* Mobile */
+@media (max-width: 640px) {
+  :root {
+    --card-min-width: 140px;
+    --grid-gap: 10px;
+    --header-height: 56px;
+  }
+
+  .menu-toggle {
+    display: block !important;
+  }
+}
